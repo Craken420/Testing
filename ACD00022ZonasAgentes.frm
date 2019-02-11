@@ -2,26 +2,27 @@
 Clave=ACD00022ZonasAgentes
 Nombre=Zonas Agentes
 Icono=67
+VentanaTipoMarco=Normal
 Modulos=(Todos)
 ListaCarpetas=zonasAgentes
 CarpetaPrincipal=zonasAgentes
 PosicionInicialAlturaCliente=459
 PosicionInicialAncho=501
-VentanaTipoMarco=Normal
 VentanaPosicionInicial=por Dise�o
 VentanaBloquearAjuste=S
 VentanaEstadoInicial=Normal
 ExpresionesAlMostrar=EjecutarSQL(<T>EXEC SP_ACD00022CargarZonasAgentes<T>)
 [zonasAgentes]
 Estilo=Hoja
-Clave=zonasAgentes
 VentanaTipoMarco=Normal
+Clave=zonasAgentes
+FichaColorFondo=Negro
 PermiteEditar=S
 AlineacionAutomatica=S
 AcomodarTexto=S
 MostrarConteoRegistros=S
 Zona=A1
-FichaColorFondo=Negro
+
 Vista=ACD00022ZonasAgentes
 Fuente={Tahoma, 8, Negro, []}
 HojaTitulos=S
@@ -69,7 +70,3 @@ ValidaNombre=S
 Tamano=50
 ColorFondo=Blanco
 ColorFuente=Negro
-
-[
-[
-[

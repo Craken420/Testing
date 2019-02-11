@@ -1,6 +1,7 @@
 [Forma]
 Clave=CobTelResp1Mavi
 Nombre=Respuesta
+VentanaTipoMarco=Normal
 Icono=0
 Modulos=(Todos)
 ListaCarpetas=cuantos<BR>Resp1
@@ -9,7 +10,6 @@ PosicionInicialIzquierda=415
 PosicionInicialArriba=350
 PosicionInicialAlturaCliente=226
 PosicionInicialAncho=449
-VentanaTipoMarco=Normal
 VentanaPosicionInicial=Centrado
 VentanaEstadoInicial=Normal
 BarraAcciones=S
@@ -22,13 +22,13 @@ VentanaSinIconosMarco=S
 [Resp1]
 Estilo=Ficha
 Clave=Resp1
+FichaColorFondo=Negro
 PermiteEditar=S
 AlineacionAutomatica=S
 AcomodarTexto=S
 MostrarConteoRegistros=S
 Zona=B1
 Vista=CobTelResp1Mavi
-FichaColorFondo=Negro
 Fuente={Tahoma, 8, Negro, []}
 FichaEspacioEntreLineas=6
 FichaEspacioNombres=100
@@ -122,6 +122,7 @@ Expresion=guardarcambios<BR>informacion(SQL(<T>Exec SP_GuardaCobTelMavi :nid,:ni
 [cuantos]
 Estilo=Ficha
 Clave=cuantos
+FichaColorFondo=Negro
 AlineacionAutomatica=S
 AcomodarTexto=S
 MostrarConteoRegistros=S
@@ -134,7 +135,6 @@ ListaEnCaptura=Info.Numero
 CarpetaVisible=S
 FichaEspacioEntreLineas=0
 FichaEspacioNombres=0
-FichaColorFondo=Negro
 [cuantos.Info.Numero]
 Carpeta=cuantos
 Clave=Info.Numero

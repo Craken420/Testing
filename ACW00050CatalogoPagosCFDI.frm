@@ -4,7 +4,7 @@ Clave=ACW00050CatalogoPagosCFDI
 Icono=0
 Modulos=(Todos)
 Nombre=Catalogo Pagos CFDI
-
+VentanaTipoMarco=Normal
 ListaCarpetas=ACW00050CatalogoPagosCFDI
 CarpetaPrincipal=ACW00050CatalogoPagosCFDI
 PosicionInicialAlturaCliente=349
@@ -13,13 +13,13 @@ BarraHerramientas=S
 AccionesTamanoBoton=15x5
 AccionesDerecha=S
 ListaAcciones=Importar<BR>Guardar<BR>Cerrar
-VentanaTipoMarco=Sencillo
 VentanaPosicionInicial=por Dise�o
 VentanaBloquearAjuste=S
 VentanaEstadoInicial=Normal
 [ACW00050CatalogoPagosCFDI]
 Estilo=Hoja
 Clave=ACW00050CatalogoPagosCFDI
+FichaColorFondo=Negro
 AlineacionAutomatica=S
 AcomodarTexto=S
 MostrarConteoRegistros=S
@@ -27,7 +27,6 @@ Zona=A1
 Vista=ACW00050catalogoPagosCFDI
 Fuente={Tahoma, 8, Negro, []}
 HojaTitulos=S
-FichaColorFondo=Negro
 HojaMostrarColumnas=S
 HojaMostrarRenglones=S
 HojaColoresPorEstatus=S
@@ -97,7 +96,3 @@ TipoAccion=Ventana
 ClaveAccion=Cerrar
 Activo=S
 Visible=S
-
-[
-[
-[

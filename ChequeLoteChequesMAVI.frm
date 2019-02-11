@@ -2,6 +2,7 @@
 Clave=ChequeLoteChequesMAVI
 Nombre=Cheque en lote
 Icono=0
+VentanaTipoMarco=Normal
 Modulos=(Todos)
 MovModulo=(Todos)
 ListaCarpetas=(Variables)
@@ -15,6 +16,7 @@ PosicionInicialIzquierda=410
 PosicionInicialArriba=272
 ListaAcciones=Preliminar
 [(Variables)]
+FichaColorFondo=Negro
 Estilo=Ficha
 Clave=(Variables)
 AlineacionAutomatica=S
@@ -29,8 +31,8 @@ CarpetaVisible=S
 PermiteEditar=S
 FichaEspacioEntreLineas=0
 FichaEspacioNombres=0
-FichaColorFondo=Negro
 ListaEnCaptura=Info.ChequeD<BR>Info.ChequeA
+
 [(Variables).Info.ChequeD]
 Carpeta=(Variables)
 Clave=Info.ChequeD
