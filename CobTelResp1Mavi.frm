@@ -1,6 +1,6 @@
 [Forma]
 Clave=CobTelResp1Mavi
-ListaCarpetas:Resp1<BR>cuantos
+ListaCarpetas=Resp1<BR>cuantos
 Nombre=Respuesta
 VentanaTipoMarco=Normal
 Icono=0
