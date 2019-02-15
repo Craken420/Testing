@@ -1,0 +1,96 @@
+[MenuPrincipal.dlg/Dialogo]
+ListaAcciones=Mov.Ventas<BR>Mov.Monedero<BR>Mov.Autotransportes<BR>Mov.PuntoVenta<BR>Mov.Servicios<BR>Mov.VentaSurtirCB<BR>Mov.DevVenta<BR>Mov.CR<BR>Mov.Embarque<BR>Mov.Pocket<BR>Mov.PocketRecibos<BR>Mov.PC<BR>Mov.Oferta<BR>Mov.Vales<BR>Mov.AtnClientes<BR>Mov.RSS<BR>Mov.MaviSupervision<BR>Mov.MaviRuta<BR>Mov.Campana<BR>Mov.Formas<BR>Mov.Proyectos<BR>Mov.Dinero<BR>Mov.Credito<BR>Mov.Capital<BR>Mov.Cxc<BR>Mov.Cxp<BR>Mov.Comisiones<BR>Mov.Gasto<BR>Mov.Mantenimiento<BR>Mov.Inventarios<BR>Mov.WMS<BR>Mov.Mermas<BR>Mov.ActivoFijo<BR>Mov.Taller<BR>Mov.Compras<BR>Mov.Importaciones<BR>Mov.ControlCalidad<BR>Mov.AtnProveedores<BR>Mov.Planeador<BR>Mov.Produccion<BR>Mov.AtnProyectos<BR>Mov.ComisionesChoferesMAVI<BR>Mov.Nomina<BR>Mov.Incidencia<BR>Mov.Acceso<BR>Mov.Asiste<BR>Mov.RH<BR>Mov.AtnPersonal<BR>Mov.ServiciosInternos<BR>Mov.GestionTelefonica<BR>Mov.Contabilidad<BR>Mov.Conciliaciones<BR>Mov.Riesgos<BR>Mov.EventosPerdida<BR>Mov.Otros<BR><CONTINUA>
+ListaAcciones002=<CONTINUA>Mov.MaviEmbarqueCasa<BR>EXPDM0174EmbarquesPiso<BR>Mov.CteHuella<BR>Mov.Salir<BR>Hist.Venta<BR>Hist.Compras<BR>Hist.Inventarios<BR>Hist.Cxc<BR>Hist.Cxp<BR>Hist.Nomina<BR>Exp.Ventas<BR>Exp.Autotransportes<BR>Exp.Servicio<BR>Exp.CR<BR>Exp.Atn<BR>Exp.Embarque<BR>Exp.Dinero<BR>Exp.Cxc<BR>Exp.Cxp<BR>Exp.Comisiones<BR>Exp.Gastos<BR>Exp.Inventarios<BR>Exp.ActivoFijo<BR>Exp.Compras<BR>Exp.Produccion<BR>Exp.Nomina<BR>Exp.RH<BR>Exp.Contabilidad<BR>Exp.Fiscal<BR>Exp.Gerenciales<BR>Exp.Articulos<BR>Exp.VIN<BR>Exp.Espacios<BR>Exp.Clientes<BR>Exp.Proveedores<BR>Exp.CtaDinero<BR>Exp.Almacenes<BR>Exp.Agentes<BR>Exp.Personal<BR>Exp.CtaContables<BR>Exp.Proy<BR>Exp.ValeSerie<BR>Exp.Documentacion<BR>Exp.Otros<BR>Cubo.Ventas<BR>Cubo.Autotransportes<BR>Cubo.Servicios<BR>Cubo.EvaluacionServicio<BR>Cubo.AtnClientes<BR>Cubo.CR<BR>Cubo.Embarques<BR>Cubo.Tesoreria<BR>Cubo.Cxc<BR>Cubo.Cxp<BR>Cubo.Inv<CONTINUA>
+ListaAcciones005=<CONTINUA><BR>Herramienta.VentaMostrador<BR>Herramienta.Autotransportes<BR>Herramienta.Embarques<BR>Herramienta.Cxc<BR>Herramienta.Cxp<BR>Herramienta.Gastos<BR>Herramienta.Inv<BR>Herramienta.Prod<BR>Herramienta.Dinero<BR>Herramienta.ChequeenLote<BR>Herramienta.Compras<BR>Herramienta.DatosPlaneador<BR>Herramienta.AdmonCreditos<BR>Herramienta.Nomina<BR>Herramienta.RH<BR>Herramienta.Exportar<BR>Herramienta.Importar<BR>Herramienta.GenerarArchivo<BR>Herramienta.GenerarPolizas<BR>Herramienta.Sincro<BR>Herramienta.CerrarDia<BR>Herramienta.CerrarMes<BR>Herramienta.TraspasarAcumulados<BR>Herramienta.TorreControl<BR>Herramienta.Actividades<BR>Herramienta.EnviarCorreo<BR>Herramienta.Ford<BR>Herramienta.Chrysler<BR>Herramienta.Otros<BR>Herramienta.AltaClienteMavi<BR>Herramienta.CobranzaTelefonicaMavi<CONTINUA>
+ListaAcciones003=<CONTINUA><BR>Cubo.FlujoInv<BR>Cubo.SerieLote<BR>Cubo.ActivoFijo<BR>Cubo.Compras<BR>Cubo.Gastos<BR>Cubo.Nomina<BR>Cubo.Retardos<BR>Cubo.Personal<BR>Cubo.Comisiones<BR>Cubo.Contabilidad<BR>Cubo.IVA<BR>Cubo.MovimientosProyectos<BR>Cubo.Clientes<BR>Cubo.Proveedores<BR>Cubo.Agentes<BR>Cubo.Art<BR>Cubo.Almacenes<BR>Cubo.VIN<BR>Cubo.ConceptosGastos<BR>Cubo.Proyectos<BR>Cubo.Cambios<BR>Rep.Ventas<BR>Rep.Campanas<BR>Rep.Servicio<BR>Rep.PC<BR>Rep.Embarque<BR>Rep.Dinero<BR>ChequeenLote<BR>Rep.Cxc<BR>Rep.Cxp<BR>Rep.Comisiones<BR>Rep.Gastos<BR>Rep.Inventarios<BR>Rep.ActivoFijo<BR>Rep.Compras<BR>Rep.Produccion<BR>Rep.Nomina<BR>Rep.Asiste<BR>Rep.RH<BR>Rep.Contabilidad<BR>Rep.Fiscales<BR>Rep.Gerenciales<BR>Rep.Auditoria<BR>Rep.Art<BR>Rep.Otros<BR>Cta.Clientes<BR>Cta.Proveedores<BR>Cta.Agentes<BR>Cta.Personal<BR>Cta.Recursos<BR>Cta.Prospectos<BR>Cta.Socio<BR>Cta.OutlookNombre<CONTINUA>
+ListaAcciones004=<CONTINUA><BR>Cta.Articulos<BR>Cta.Productos<BR>Cta.Espacio<BR>Cta.ActivoF<BR>Cta.Almacenes<BR>Cta.Rep<BR>Cta.Monedero<BR>Cta.VIN<BR>Cta.Dinero<BR>Cta.ConceptoGastos<BR>Cta.CentroCostos<BR>Cta.Proy<BR>Cta.ProdEstacion<BR>Cta.ProdCentro<BR>Cta.ProdRuta<BR>Cta.LineasCredito<BR>Cta.TipoTasa<BR>Cta.TipoAmortizacion<BR>Cta.Contables<BR>Cta.Otros<BR>Herramienta.MenuVista<BR>Herramienta.TipoCambioR<BR>Herramienta.Ticker<BR>Herramienta.Hasp<BR>Herramienta.Tareas<BR>Herramienta.Agenda<BR>Herramienta.Paginas<BR>Herramienta.Calculadora<BR>Herramienta.Calendario<BR>Herramienta.ScoreBoard<BR>Herramienta.CabinaMando<BR>Herramienta.TipoCambio<BR>Herramienta.Recurrentes<BR>Herramienta.EstatusImpresiones<BR>Herramienta.Monitor<BR>Herramienta.RespaldarDatos<BR>Herramienta.MovMover<BR>Herramienta.BusinessPlan<BR>Herramienta.Venta<CONTINUA>
+ListaAcciones005=<CONTINUA><BR>Herramienta.VentaMostrador<BR>Herramienta.Autotransportes<BR>Herramienta.Embarques<BR>Herramienta.Cxc<BR>Herramienta.Cxp<BR>Herramienta.Gastos<BR>Herramienta.Inv<BR>Herramienta.Prod<BR>Herramienta.Dinero<BR>Herramienta.ChequeenLote<BR>Herramienta.Compras<BR>Herramienta.DatosPlaneador<BR>Herramienta.AdmonCreditos<BR>Herramienta.Nomina<BR>Herramienta.RH<BR>Herramienta.Exportar<BR>Herramienta.Importar<BR>Herramienta.GenerarArchivo<BR>Herramienta.GenerarPolizas<BR>Herramienta.Sincro<BR>Herramienta.CerrarDia<BR>Herramienta.CerrarMes<BR>Herramienta.TraspasarAcumulados<BR>Herramienta.TorreControl<BR>Herramienta.Actividades<BR>Herramienta.EnviarCorreo<BR>Herramienta.Ford<BR>Herramienta.Chrysler<BR>Herramienta.Otros<BR>Herramienta.CobranzaTelefonicaMavi<CONTINUA>
+ListaAcciones006=<CONTINUA><BR>Herramienta.DM0213CatalogoVehiculosProveedores<BR>Herramienta.CobCampoMAVI<BR>Herramienta.EndosarEnLote<BR>Herramienta.EnvioCtasIncMaviCob<BR>Herramienta.ctasenvidasmavicob<BR>Herramienta.CobranzaMenudeo<BR>Herramienta.MaximoAval<BR>HERRBUCRED<BR>Herramienta.CambiarProspecto<BR>Herramienta.InsertImporteLineaC<BR>Herramienta.ClaveSeguimiento<BR>Herramienta.MaviSupervisionMaestro<BR>Herramienta.MaviFchExigibles<BR>Herramienta.MaviGenerarRuta<BR>Herramienta.DigitalizacionCapturarCuentas<BR>Herramienta.DigitalizacionImpresionCaratulas<BR>Herramienta.Aurodialer<BR>Herramienta.DM0211GenerarPagoCheque<BR>Config.Empresas<BR>Config.Sucursales<BR>Config.Usuarios<BR>Config.General<BR>Config.MenuVista<BR>Config.Politicas<BR>Config.Planeacion<BR>Config.Consecutivos<BR>Config.Movimientos<BR>Config.Situaciones<BR>Config.Conceptos<BR>Config.Observaciones<BR>Config.Documentacion<BR>Config.Layout<BR>Config.Ventas<BR>Config.Servicio<BR>Config.PC<BR>Config.Ofertas<BR>Config.Atn<BR>Config.RSS<BR>Config.Campana<BR>Config.Proyectos<BR>Config.Embarque<BR>Config.Dinero<BR>Config.Capital<BR>Config.Cxc<BR>Config.Cxp<BR>Config.Gastos<BR>Config.Compras<BR>Config.Nomina<BR>Config.RH<BR>Config.Prod<BR>Config.WMS<BR>Config.Autotransportes<CONTINUA>
+ListaAcciones007=<CONTINUA><BR>Config.ARO<BR>Config.GeneradorReportes<BR>Config.GeneradorVistasEspeciales<BR>Config.GeneradoNomina<BR>Config.ConexionContable<BR>Config.ContabilidadAutomatica<BR>Config.ComiSuperv<BR>Config.EmbarqueVehic<CONTINUA>
+ListaAcciones008=<CONTINUA><BR>Config.BaseDatos<BR>Config.FactorCosteoFletesMAVI<BR>Config.FactorCosteoFletesMagisterio<BR>Config.ComisionesChoferesMAVI<BR>Config.ParametrizacionCFD<BR>Config.Otros<BR>Ayuda.Ayuda<BR>Ayuda.Acerca<BR>Mov.ServicasaServicredCredito<BR>Mov.ServicasaServicredSucursales<BR>Mov.ServicasaServicredCreditoMayoreo<BR>Config.Bonificacion<BR>Exp.MaviRefin<BR>Herramienta.Instituciones<BR>Herramienta.Contabilidad<BR>Herramienta.CxcCFD<BR>Herramienta.EliminarSaldosMenoresCxc<BR>Herramienta.EliminarSaldosMenoresCxp<BR>Herramientas.ProcesarEnLote<BR>Herramienta.EmbarcarEnLote<BR>Herramienta.PROPRE<BR>Herramienta.DM0101MasterG<BR>Herramienta.ComMay<BR>Herramienta.CosteoFleteMAVI<BR>DM0128MenuPubliPreSegAut<BR>Herramienta.DM0106Accesos<BR>DM0102ASIGPREESP<BR>Herramienta.CambiarUsuario<BR>Config.InstitucionFin<BR>Config.MenuCfgCxcCalifCtes<BR>Herramienta.DM0128publisegaut<CONTINUA>
+ListaAcciones009=<CONTINUA><BR>Config.PreguntaCte<BR>EXPCobraCredInst<BR>EXPCobCredMen<BR>EXPComp<BR>EXPCont<BR>EXPCredit<BR>EXPCxp<BR>EXPEmbarq<BR>EXPGastos<BR>EXPInvent<BR>EXPTesoreria<BR>EXPVentas<BR>EXPActiFij<BR>EXPAgente<BR>EXPAlmacen<BR>EXPArticulo<BR>EXPClienGenr<BR>EXPClientInst<BR>EXPCoincidencias<BR>EXPCuentCont<BR>EXPCuentDine<BR>EXPEnvInfCobFideFon<BR>EXPHistCostFlete<BR>EXPPrelCobro<BR>EXPProve<BR>DM0103ComsExpMacroMavifrm<BR>EXPResultCaja<BR>REPMAVI<BR>Config.FactorSeguroFletesMAVI<BR>Herramienta.DM0155InformacionMavi<BR>Exp.BitaCalif<BR>EXPCitaSuperv<BR>Herramienta.DM0172ClienteExpressMDA<BR>Herramienta.BuroMAVI<BR>EXPBitacoraCte<BR>ExpDM0195Histcatalogoclientes<BR>ExpDM0194Exigibles<BR>Herramientas.BuroDigital<BR>EnvSupAncroid<BR>EXPHISTMODI<BR>cta.importador<BR>Herramienta.Analistas<BR>ExpDM0216VarPorcExi<BR>Herramienta.RM1074ListaArtCbFrm<BR>Herramienta.DM0173ValidaMonederoFrm<BR>Herramienta.DM0221Liberador<BR>EXPRM1094SimulaBonif<BR>Herramienta.AuditoriaCredito<BR>Herramienta.DM0226InvMov<BR>Herramienta.DM0227GemOC<BR>Herramienta.DM0228Rechazos<BR>Herramienta.DM0229CambioSeccionCteFrm<BR>EXPDM0232Fotos<BR>Herramienta.EnviaGastoCOMER<BR>Herramienta.PARAMETROSSCORING<CONTINUA>
+ListaAcciones010=<CONTINUA><BR>Herramienta.DM0239DistrAuto<BR>Herramienta.DM0239Jerarquia<BR>Herramienta.DM0239MaxArtxSuc<BR>EXPDM0238ConvenInstVigen<BR>EXPDM0238ConvenInstVigenEstatus<BR>Cta.DM0237EstructuraAgte<BR>Herramienta.RM1114CartaConf<BR>Herramienta.Balanza<BR>Herramienta.GenCatalogo<BR>Herramienta.DM0235ControlDepDisp<BR>Herramienta.DM0235Correos<BR>Herramienta.DM0243<BR>Herramienta.DM0243Cred<BR>Herramienta.MensajeAval<BR>Herramienta.DM0246TipoSucursal<BR>Herramienta.DM0246TipoAlm<BR>Herramienta.DM0246ImportarExcel<BR>EXPDM0240CtaQuebranto<BR>Herramienta.DM0173CampañasMonedero<BR>Herramienta.DM0247HerrCalzado<BR>Herramientas.RM1120Factor<BR>Herramientas.RM1120Nivel<BR>Herramientas.RM1120Bitacora<BR>Herramienta.DM0248ArtLote<BR>Herramienta.PagoGestiones<BR>Herramienta.DM0256ConfigPagares<BR>Config.MenuCfgCredINTL<BR>Herramientas.DM0257ListaNegra<BR>Herramienta.DM0263DisSucGeoFrm<BR>Herramienta.DM0263EmpleadoZonaFrm<BR>Herramienta.INTL604CargaBuro<BR>Herramienta.DM0264RedDimas<BR>Herramienta.DM0264CuotaDimas<CONTINUA>
+ListaAcciones011=<CONTINUA><BR>Herramienta.DM0266CalendarioDistribucion<BR>Herramienta.ACD00017VisorMavi<BR>Config.posiblesDimas<BR>Herramienta.SIP<BR>Herramienta.DM0267BitacoraDima<BR>Herramienta.DM0269OrdenadorRutaReparto<BR>Herramienta.DM0276<BR>Herramienta.RM0847Cat<BR>Herramienta.DM0278CancelacionSegurosVida<BR>Config.DM0287<BR>Herramienta.DM0287Autorizar<BR>Config.ConfigMonederoFamilia<BR>Herramienta.DM0292PorcentajeArticulosQ<BR>Herramienta.RM1138ValidarTelefono<BR>Herramienta.ACD00021AsigJefSup<BR>Herramienta.DM0300ImpresionGestionesxCliente<BR>Herramienta.SELP<BR>Config.DM0299Tipodecliente<BR>Cta.Rentabilidad<BR>Herramienta.RM1146Configuracion<BR>Herramienta.EtiquetaAdjudicaciones<BR>Herramienta.ACW00042FichaTecnica<BR>Herramienta.ACD00023CancelaSeguros<BR>Herramienta.DM0304FamiliaRelacionada<BR>Config.PanelInformacionConfig<BR>Herramienta.PanelInformacion<BR>Herramienta.DM0285familialineaesp<BR>Herramienta.DM0307CitasProveedores<BR>Herramienta.ACW00022AuditoriaCobranza<CONTINUA>
+ListaAcciones012=<CONTINUA><BR>Herramienta.Porcsobreprecio<BR>Herramienta.CampañasSms<BR>Herramienta.Logmetodopago<BR>EXPRepep<BR>Herramienta.ACW00050MenuCFDI<BR>Herramienta.DM0321SegurosVida<BR>Herramienta.RM1168ComprasAuditoriaDIMASTiendaVirtualFRM<BR>Config.ConfiguracionReanalisis<BR>Herramienta.DM0264PorcentajeDima<BR>Herramienta.AsignacionSupervisores<BR>Herramienta.DM0285EComTemporadasFrm<BR>Herramienta.ReporteVentaComparativo<BR>Herramienta.CyberPuerta<BR>Herramienta.ConfiguracionPuntoVenta<BR>Mov.PuntoVentaMavi<BR>Herramienta.PromocionesPuntoVenta<BR>Herramienta.DM0329DepuracionSeguros<BR>Herramienta.DM0285CompraseCommerce<BR>Herramienta.ACD00029LimpiezaCorreo<BR>Herramienta.DIMACredilana<BR>Herramienta.DIMACredilanaAtencionC<BR>Herramienta.EstadoCuentaDima<BR>Herramienta.AgrupadorDeAlmacenes<BR>Herramienta.KPIEcommerce<BR>Herramienta.RM0906ConfigDivisionYParam<BR>Herramienta.VentasExistencias<BR>Herramienta.ValidacionTel<BR>Config.PresumiblesBF<BR>Herramienta.HistoricoActualizacion<BR><CONTINUA>
+ListaAcciones013=<CONTINUA><BR>Herramienta.AlertaFajillas<BR>Herramienta.AjusteApoyoCobranza<BR>Herramienta.DM0216CatalogoDatalogic<BR>Herramienta.ConfiguracionTelemarketing<BR>Herramienta.DM0345FamiliasLineasValidasAppDima<BR>Herramienta.DM0345FamiliaImagenAppDima<BR>Herramienta.Forecast<BR><CONTINUA>
+ListaAcciones.Cambios=Insertar<TAB>Config.CFDFlex<TAB>227<BR>Insertar<TAB>Config.eDoc<TAB>237<BR>Insertar<TAB>Herramienta.CFDFlex<TAB>212
+
+MenuPrincipal=&Procesos<BR>&Historico<BR>&Exploradores<BR>E&xploradores Mavi<BR>Reportes Mavi<BR>C&ubos<BR>&Reportes<BR>&Cuentas<BR>&Web<BR>&Herramientas<BR>C&onfigurar<BR>Ay&uda
+
+;*** Explorador de Refinanciamientos. Isaura Muñiz, 13-Nov-2009
+; **** Modificacion de Menu para accion Exp.MaviRefin, 27/DIC/2011 Victor Enrique Murillo Torres, para desarrollo DM0155 SEGMENTACION DE MENUS dentro del paquete DM0155_27122011. JR 27-Dic-2011. ****
+; **** Modificacion de Menu para accion Exp.MaviRefin regresando valor anterior (&Exploradores), 28/DIC/2011 Victor Enrique Murillo Torres, para desarrollo DM0155 SEGMENTACION DE MENUS dentro del paquete DM0155_28122011. JR 28-Dic-2011. ****
+[MenuPrincipal.dlg/Acciones.Exp.MaviRefin]
+Nombre=Exp.MaviRefin
+Boton=0
+Menu=&Exploradores
+NombreDesplegar=Explorador Refinanciamiento
+EnMenu=S
+TipoAccion=Formas
+ClaveAccion=RM0907MaviSimRefinanciamientofrm
+Activo=S
+Visible=S
+;Menu=E&xploradores Mavi
+
+[MenuPrincipal.dlg/Acciones.EXPPrelCobro]
+Nombre=EXPPrelCobro
+Boton=0
+NombreDesplegar=Preliminar de Cobro
+EnMenu=S
+Activo=S
+Visible=S
+Menu=E&xploradores Mavi
+TipoAccion=Expresion
+;ClaveAccion=RM0906PreliminarCobroFrm
+Expresion=Ejxpresion inicial <CONTINUA>
+Expresion002=<CONTINUA> expresion2 <CONTINUA>
+Expresion003=<CONTINUA> expresion3 
+Expresion002=<CONTINUA> expresion2 <CONTINUA>
+Expresion004=<CONTINUA> expresion4
+
+
+;*** 14/Oct/11 Victor Enrique Murillo Torres***
+;*** MEnu en donde se redireccionaran los RM***
+[MenuPrincipal.dlg/Acciones.REPMAVI]
+Nombre=REPMAVI
+Boton=0
+NombreDesplegar=Reportes Mavi
+EnMenu=S
+TipoAccion=Otros
+ClaveAccion=Reportes Especiales del Usuario
+Activo=S
+Visible=S
+Menu=Reportes Mavi
+
+; ***** Termina integracion de acciones de exploradores para mostrar nuevo menu para desarrollo DM0155 SEGMENTACION DE MENUS dentro del paquete DM0155_14102011. JR 14-Oct-2011. *****
+
+
+; **** Modificacion de acciones: Herramienta.Compras, Herramienta.AdmonCreditos, Herramienta.Contabilidad, Herramienta.Dinero, Rep.Cxc por Jesus Del Toro Andrade para el desarrollo DM0121 MODIFICACIÓN AL DLG MENÚ PRINCIPAL dentro del paquete DM0121_15112011. JR 16-Nov-2011 ****
+[MenuPrincipal.dlg/Acciones.Herramienta.Compras]
+EspacioPrevio=S
+
+[MenuPrincipal.dlg/Acciones.Herramienta.SELP]
+Nombre=Herramienta.Herramienta.SELP
+Boton=0
+NombreDesplegar=SELP
+EnMenu=S
+TipoAccion=Expresion
+Activo=S
+Visible=S
+Menu=&Herramientas
+Expresion=Ejecutar<CONTINUA>
+Expresion002=<CONTINUA> aqui sigue la expresion2 <CONTINUA> 
+Expresion003=<CONTINUA> aqui sigue la expresion3 
+Expresion002=<CONTINUA> expresion2 repetida <CONTINUA> 
+Expresion004=<CONTINUA> aqui sigue la expresion4
+
+[MenuPrincipal.dlg/Acciones.Herramienta.DM0304FamiliaRelacionada]
+Nombre=Herramienta.DM0304FamiliaRelacionada
+Boton=0
+NombreDesplegar=Familia Linea Relacionada
+EnMenu=S
+TipoAccion=Formas
+ClaveAccion=DM0304FamiliaLineaRelacionadaFrm
+Activo=S
+Visible=S
+Menu=&Herramientas
