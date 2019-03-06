@@ -1,4 +1,9 @@
-
+á
+é
+í
+ó
+ú
+ñ
 NombreDesplegar=Supervisi�n
 
 Expresion=Si(Confirmacion(<T>�Desea Generar las Rutas de Supervisi�n?<T>, BotonAceptar, BotonCancelar) = BotonAceptar , ProcesarSQL(<T>spMaviRutaGenerar :tEmpresa, :tUsuario, :nSuc<T>, Empresa, Usuario, Sucursal))
