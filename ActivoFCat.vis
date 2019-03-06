@@ -1,16 +1,6 @@
-[Vista]
-Icono=0
-Clave=ActivoFCat
-Nombre=Categorías
-Modulos=(Todos)
-Singular=Categoría
-ListaTablas=(Lista)
-UsoCapturas=S
-UsoReportes=S
-ListaCampos=(Lista)
-TablaPrincipal=ActivoFCat
-ListaRelaciones=(Lista)
-UsarJOIN=S
+
+Nombre=Categorï¿½as
+Singular=Categorï¿½a
 
 
 
@@ -200,7 +190,7 @@ LigaTabla=ActivoFCat
 LigaCampo=VidaUtil
 Ligado=S
 TipoCampo=Tabla
-TipoDatos=Numérico
+TipoDatos=Numï¿½rico
 ClaveBDE=VidaUtil
 
 [ActivoFCat.InicioDepreciacion]
@@ -228,7 +218,7 @@ LigaTabla=ActivoFCat
 LigaCampo=DepreciacionAnualAjustada
 Ligado=S
 TipoCampo=Tabla
-TipoDatos=Lógico
+TipoDatos=Lï¿½gico
 ClaveBDE=DepreciacionAnualAjustada
 
 [ActivoFCat.DepreciacionAnualF]
@@ -246,7 +236,7 @@ LigaTabla=ActivoFCat
 LigaCampo=VidaUtilF
 Ligado=S
 TipoCampo=Tabla
-TipoDatos=Numérico
+TipoDatos=Numï¿½rico
 ClaveBDE=VidaUtilF
 
 [ActivoFCat.InicioDepreciacionF]
@@ -284,7 +274,7 @@ LigaTabla=ActivoFCat
 LigaCampo=DepreciacionAnualAjustadaF
 Ligado=S
 TipoCampo=Tabla
-TipoDatos=Lógico
+TipoDatos=Lï¿½gico
 ClaveBDE=DepreciacionAnualAjustadaF
 
 [ActivoFCat.DepreciacionAnualF2]
@@ -302,7 +292,7 @@ LigaTabla=ActivoFCat
 LigaCampo=VidaUtilF2
 Ligado=S
 TipoCampo=Tabla
-TipoDatos=Numérico
+TipoDatos=Numï¿½rico
 ClaveBDE=VidaUtilF2
 
 [ActivoFCat.InicioDepreciacionF2]
@@ -340,7 +330,7 @@ LigaTabla=ActivoFCat
 LigaCampo=DepreciacionAnualAjustadaF2
 Ligado=S
 TipoCampo=Tabla
-TipoDatos=Lógico
+TipoDatos=Lï¿½gico
 ClaveBDE=DepreciacionAnualAjustadaF2
 
 [ActivoFCat.PorcentajeDeducible]
@@ -354,7 +344,7 @@ ClaveBDE=PorcentajeDeducible
 
 [ActivoFCat.CuentaDepreciacion]
 Clave=ActivoFCat.CuentaDepreciacion
-Nombre=Cuenta Depreciación
+Nombre=Cuenta Depreciaciï¿½n
 Visible=S
 TamanoValidacion=20
 TipoDatos=Texto

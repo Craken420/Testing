@@ -1,4 +1,10 @@
 [Forma]
+á
+é
+í
+ó
+ú
+ñ
 Clave=VentaValeMAVILista
 Nombre=<T>Vales - <T>+SQL(<T>SELECT Mov FROM Venta WHERE ID=:nID<T>, Info.IDMAVI)+<T> <T>+SQL(<T>SELECT MovID FROM Venta WHERE ID=:nID<T>, Info.IDMAVI)
 Icono=0
