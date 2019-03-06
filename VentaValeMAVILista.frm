@@ -1,5 +1,4 @@
 [Forma]
-(�|�|�|�|�|�)
 Clave=VentaValeMAVILista
 Nombre=<T>Vales - <T>+SQL(<T>SELECT Mov FROM Venta WHERE ID=:nID<T>, Info.IDMAVI)+<T> <T>+SQL(<T>SELECT MovID FROM Venta WHERE ID=:nID<T>, Info.IDMAVI)
 Icono=0
@@ -15,8 +14,8 @@ PosicionInicialArriba=279
 PosicionInicialAlturaCliente=273
 PosicionInicialAncho=297
 MovModulo=(Todos)
-VentanaTipoMarco=Normal
-VentanaPosicionInicial=por Dise�o
+VentanaTipoMarco=Sencillo
+VentanaPosicionInicial=por Diseño
 VentanaExclusiva=S
 [Acciones.Salir]
 Nombre=Salir
@@ -55,7 +54,7 @@ HojaMostrarRenglones=S
 HojaColoresPorEstatus=S
 HojaPermiteInsertar=S
 HojaPermiteEliminar=S
-HojaVistaOmision=Autom�tica
+HojaVistaOmision=Automática
 FiltroGeneral=VentaValeMAVI.ID ={Info.IDMAVI}
 [Lista.VentaValeMAVI.Vale]
 Carpeta=Lista
@@ -69,3 +68,4 @@ ColorFondo=Blanco
 ColorFuente=Negro
 [Lista.Columnas]
 Vale=251
+

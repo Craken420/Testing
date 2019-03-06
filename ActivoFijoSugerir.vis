@@ -1,6 +1,5 @@
 
 [Vista]
-(ï¿½|ï¿½|ï¿½|ï¿½|ï¿½|ï¿½)
 Icono=0
 Clave=ActivoFijoSugerir
 Nombre=ActivoFijoSugerir
@@ -19,7 +18,7 @@ Clave=ActivoFijoSugerir.Estacion
 Nombre=Estacion
 Visible=S
 TamanoValidacion=10
-TipoDatos=Numï¿½rico
+TipoDatos=Numérico
 ValorPorOmision=EstacionTrabajo
 LigaTabla=ActivoFijoSugerir
 LigaCampo=Estacion
@@ -43,7 +42,7 @@ ClaveBDE=ID
 
 [ActivoFijoSugerir.Categoria]
 Clave=ActivoFijoSugerir.Categoria
-Nombre=Categorï¿½a Activo Fijo
+Nombre=Categoría Activo Fijo
 Visible=S
 TamanoValidacion=50
 TipoDatos=Texto
@@ -59,7 +58,7 @@ Clave=ActivoFijoSugerir.Sugerir
 Nombre=Sugerir
 Visible=S
 TamanoValidacion=10
-TipoDatos=Lï¿½gico
+TipoDatos=Lógico
 LigaTabla=ActivoFijoSugerir
 LigaCampo=Sugerir
 Ligado=S

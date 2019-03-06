@@ -1,12 +1,11 @@
 [Reporte]
-(ï¿½|ï¿½|ï¿½|ï¿½|ï¿½|ï¿½)
 Clave=RM0847MaviCredRelPedXClienteRep
-Nombre=RM0847 Relaciï¿½n de Pedido por Cliente
+Nombre=RM0847 Relación de Pedido por Cliente
 Icono=0
 VistaEspecial=S
 Tipo=Reporte
 SubmenuPreliminar=S
-ImpresoraEspecifica=(por Omisiï¿½n)
+ImpresoraEspecifica=(por Omisión)
 ImpresoraPixeles=(Auto)
 ImpresoraFactor=(Auto)
 ImpresoraAlto=(Auto)
@@ -40,7 +39,7 @@ Parametros3=
 [Vista]
 Icono=0
 Clave=RM0847MaviCredRelPedXClienteRep
-Nombre=RM0847 Relaciï¿½n de Pedidos por Cliente
+Nombre=RM0847 Relación de Pedidos por Cliente
 VistaIndependiente=S
 ListaCampos=MovId<BR>FechaEmision<BR>cliente<BR>Observaciones<BR>Condicion<BR>Agente<BR>situacion<BR>SucursalVenta<BR>MaviTipoVenta<BR>vencimiento<BR>preciototal<BR>Solicito<BR>comenta<BR>Enviara<BR>Referencia<BR>OrdenCompra<BR>Precio<BR>fecharegistro<BR>Id<BR>Mov<BR>FechaNacimiento<BR>Telefono<BR>NombreDeArticulos<BR>ImporteArt<BR>Cantidad<BR>NombreAgente<BR>Usuario<BR>NombreAval<BR>ColoniaAval<BR>CodigoPostalAval<BR>DireccionAval<BR>TelefonosAval<BR>PoblacionAval<BR>EstadoAval<BR>Cadena<BR>Nombre<BR>NombreCliente<BR>DireccionCte<BR>EstadoCliente<BR>ColoniaCte<BR>PoblacionCte<BR>CodigoPostalCte<BR>Articulo<BR>UsuarioNombre<BR>NumeroDocumentos<BR>Leyenda<BR>Factor<BR>Familia<BR>Linea<BR>Estatus
 ControlSucursalOrigen=S
@@ -136,7 +135,7 @@ ListaLineas002=<CONTINUA>vId Liq Anticipada<BR>Pie<BR>Pie<BR>Pie<BR>Pie
 [Linea1]
 Clave=Encabezado
 Objetos=0
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=2.4
 Renglones=4
 FondoColor=Blanco
@@ -144,7 +143,7 @@ Fuente={Arial, 8, Negro, [Negritas]}
 AVertical=Centrado
 [Linea2]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.4
 Renglones=1
 FondoColor=Blanco
@@ -153,7 +152,7 @@ AVertical=Centrado
 Objetos=1
 [Linea3]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.4
 Renglones=1
 EstiloMarco=0
@@ -163,7 +162,7 @@ AVertical=Centrado
 Objetos=1
 [Linea4]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 Grupo=
 AltoEnCm=0.34
 Renglones=1
@@ -176,7 +175,7 @@ EstiloAbajo=0
 EstiloMarco=3
 [Linea5]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.42
 Renglones=1
 Marco=N
@@ -191,7 +190,7 @@ EstiloAbajo=0
 Visible=
 [Linea6]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.42
 Renglones=1
 FondoColor=Blanco
@@ -206,7 +205,7 @@ BordeAbajo=N
 EstiloAbajo=0
 [Linea7]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.37
 Renglones=1
 FondoColor=Blanco
@@ -221,7 +220,7 @@ BordeAbajo=S
 EstiloAbajo=0
 [Linea8]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.42
 Renglones=1
 FondoColor=Blanco
@@ -256,7 +255,7 @@ TablaAnchoTotales=(Auto)
 Expresion=
 [Linea9]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.42
 Renglones=1
 FondoColor=Blanco
@@ -364,7 +363,7 @@ Visible=S
 OpcionesColumnas=1
 OpcionesRenglones=8
 TamanoValidacion=10
-TipoDatos=Numï¿½rico
+TipoDatos=Numérico
 ClaveBDE=SucursalVenta
 [MaviTipoVenta]
 Clave=MaviTipoVenta
@@ -514,7 +513,7 @@ Visible=S
 OpcionesColumnas=1
 OpcionesRenglones=8
 TamanoValidacion=10
-TipoDatos=Numï¿½rico
+TipoDatos=Numérico
 ClaveBDE=EnviarA
 [E32]
 Celda=E32
@@ -739,7 +738,7 @@ TablaAncho=(Auto)
 TablaAnchoCeldas=(Auto)
 TablaAnchoTituloRenglon=(Auto)
 TablaAnchoTotales=(Auto)
-Expresion=<T>Pï¿½gina <T>+ ReportePaginaNumero+ <T> de <T>+  ReportePaginaTotal
+Expresion=<T>Página <T>+ ReportePaginaNumero+ <T> de <T>+  ReportePaginaTotal
 [NombreDeArticulos]
 Clave=NombreDeArticulos
 Nombre=NombreDeArticulos
@@ -1015,7 +1014,7 @@ Expresion=Mov+<T> <T>+MovId
 [Linea10]
 Clave=Encabezado
 Objetos=4
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.42
 Renglones=1
 BordeArriba=N
@@ -1134,7 +1133,7 @@ AlturaVariable=N
 ExpresionMultiple=N
 [Linea11]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 Grupo=
 AltoEnCm=0.39
 FondoColor=Blanco
@@ -1147,7 +1146,7 @@ EstiloAbajo=1
 [Linea12]
 Clave=Encabezado
 Objetos=4
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.42
 Renglones=1
 FondoColor=Blanco
@@ -1159,7 +1158,7 @@ EstiloAbajo=0
 [Linea13]
 Clave=Encabezado
 Objetos=4
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.45
 Renglones=1
 BordeArriba=N
@@ -1305,7 +1304,7 @@ TablaAnchoTotales=(Auto)
 Expresion=<BR>EstadoAval
 [Linea14]
 Clave=Encabezado
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 AltoEnCm=0.42
 Renglones=1
 FondoColor=Blanco
@@ -1315,7 +1314,7 @@ Objetos=4
 [Linea15]
 Clave=Encabezado
 Objetos=2
-Seccion=Encabezado Pï¿½gina
+Seccion=Encabezado Página
 Grupo=
 AltoEnCm=0.42
 Renglones=1
@@ -2317,7 +2316,7 @@ Visible=S
 OpcionesColumnas=1
 OpcionesRenglones=8
 TamanoValidacion=10
-TipoDatos=Numï¿½rico
+TipoDatos=Numérico
 ClaveBDE=NumeroDocumentos
 [Linea27]
 Clave=Fin: cliente
@@ -2410,7 +2409,7 @@ BordeDerecho=N
 [Linea29]
 Clave=Pie
 Objetos=2
-Seccion=Pie Pï¿½gina
+Seccion=Pie Página
 AltoEnCm=0.29
 Renglones=1
 FondoColor=Blanco
@@ -2455,11 +2454,11 @@ TablaAncho=(Auto)
 TablaAnchoCeldas=(Auto)
 TablaAnchoTituloRenglon=(Auto)
 TablaAnchoTotales=(Auto)
-Expresion=<T>Nombre, Firma Gerente  que revisï¿½,<T><BR><T>cotejo firmas e identificacion.<T>
+Expresion=<T>Nombre, Firma Gerente  que revisó,<T><BR><T>cotejo firmas e identificacion.<T>
 [Linea30]
 Clave=Pie
 Objetos=3
-Seccion=Pie Pï¿½gina
+Seccion=Pie Página
 AltoEnCm=3.11
 Renglones=8
 BordeArriba=N
@@ -2470,7 +2469,7 @@ AVertical=Centrado
 [Linea31]
 Clave=Pie
 Objetos=9
-Seccion=Pie Pï¿½gina
+Seccion=Pie Página
 AltoEnCm=0.63
 Renglones=2
 BordeArriba=N
@@ -2498,7 +2497,7 @@ TablaAnchoTotales=(Auto)
 [Linea32]
 Clave=Pie
 Objetos=6
-Seccion=Pie Pï¿½gina
+Seccion=Pie Página
 AltoEnCm=0.45
 Renglones=1
 BordeArriba=N
@@ -2548,12 +2547,12 @@ TablaAnchoCeldas=(Auto)
 TablaAnchoTituloRenglon=(Auto)
 TablaAnchoTotales=(Auto)
 Expresion=<T>Aviso de Privacidad<T>
-Expresion002=<CONTINUA>por la naturaleza de sus<T><BR><T>actividades  asï¿½  lo  amerite  y a  empresas  filiales   y/o  subsidiarias,  los  cuales  deberï¿½n  apegarse estrictamente a las polï¿½ticas organizacionales  reguladas  por  MAVI. Para ejercer sus derechos de acceso,<T><BR><T>rectificaciï¿½n,   cancelaciï¿½n   y  oposiciï¿½n,  asï¿½  como  la  revocaciï¿½n  de  su  consentimiento, de acuerdo a la Ley Federal de Protecciï¿½n de  Datos  Personales en Posesiï¿½n de los  Particulares  deberï¿½  contactar a <T><BR><T>nuestra  oficina  de  privacidad   que   se  encuentra  ubicada en Calle 13 # 70,  Colonia  El Deï¿½n, C.P. 44440 en Guadalajara, Jalisco con los documentos  soportes  del derecho a ejercer. Al no oponerse a dicho <T><BR><T>tratamiento  se  da  por  entendido   que   autoriza  a  MAVI a transferir  sus  datos  persona<CONTINUA>
-Expresion003=<CONTINUA>les  a  cualquier  tercero   (persona fï¿½sica o moral), el cual asumirï¿½ las mismas  obligaciones  que  corresponda en  el <T><BR><T>tratamiento de los datos;  y   otorga   expresamente  su consentimiento para que MAVI y/o  sus  empresas   filiales  y  subsidiarias  puedan  dar tratamiento a sus datos para los fines que se encuentren asentados  <T><BR><T>en el Aviso de Privacidad.<T>
+Expresion002=<CONTINUA>por la naturaleza de sus<T><BR><T>actividades  así  lo  amerite  y a  empresas  filiales   y/o  subsidiarias,  los  cuales  deberán  apegarse estrictamente a las políticas organizacionales  reguladas  por  MAVI. Para ejercer sus derechos de acceso,<T><BR><T>rectificación,   cancelación   y  oposición,  así  como  la  revocación  de  su  consentimiento, de acuerdo a la Ley Federal de Protección de  Datos  Personales en Posesión de los  Particulares  deberá  contactar a <T><BR><T>nuestra  oficina  de  privacidad   que   se  encuentra  ubicada en Calle 13 # 70,  Colonia  El Deán, C.P. 44440 en Guadalajara, Jalisco con los documentos  soportes  del derecho a ejercer. Al no oponerse a dicho <T><BR><T>tratamiento  se  da  por  entendido   que   autoriza  a  MAVI a transferir  sus  datos  persona<CONTINUA>
+Expresion003=<CONTINUA>les  a  cualquier  tercero   (persona física o moral), el cual asumirá las mismas  obligaciones  que  corresponda en  el <T><BR><T>tratamiento de los datos;  y   otorga   expresamente  su consentimiento para que MAVI y/o  sus  empresas   filiales  y  subsidiarias  puedan  dar tratamiento a sus datos para los fines que se encuentren asentados  <T><BR><T>en el Aviso de Privacidad.<T>
 [Linea33]
 Clave=Pie
 Objetos=0
-Seccion=Pie Pï¿½gina
+Seccion=Pie Página
 AltoEnCm=1.47
 Renglones=4
 FondoColor=Blanco
@@ -2594,14 +2593,14 @@ TablaAncho=(Auto)
 TablaAnchoCeldas=(Auto)
 TablaAnchoTituloRenglon=(Auto)
 TablaAnchoTotales=(Auto)
-Expresion=<T>La informaciï¿½n personal proporcionada durante los servicios ofrecidos  por  Mavi  de  Occidente,  S.A.  de  C.V. (en lo sucesivo ï¿½MAVIï¿½)  es necesaria para la evaluaciï¿½n, anï¿½lisis, uso, manejo,<T><BR><T>aprovechamiento, transferencia,  disposiciï¿½n,  divulgaciï¿½n  almacenamiento  por   cualquier   medio, actividad o proceso que requiere   el  tratamiento.  Los detalles  del  Aviso de privacidad<T><BR><T>y sus actualizaciones se encuentran en nuestra  pï¿½gina  web <T>+sql(<T> SELECT PagAviso = T.Valor FROM TablaStD T WITH(NOLOCK) INNER JOIN Sucursal S ON S.wUEN = T.Nombre WHERE TablaSt=:tNom AND Sucursal=:nSuc<T>,<T>WEB AVISO DE PRIVACIDAD<T>,SucursalVenta)+<T>   MAVI  cuenta   con   medios  de  almacenamiento  de  datos  personales  debidamente protegidos,<T><BR><T>limitando el uso al personal que por la naturaleza de sus actividades  asï¿½  lo  amerite  y a  empresas  filiales   y/o  subsidiarias,  los  cuales  deberï¿½n  apegarse estrictamente a las<T><BR><T>polï¿½ticas organizacionales  reguladas  por  MAVI. Para ejercer sus derechos de acceso, rectificaciï¿½n,   cancelaciï¿½n   y  oposiciï¿½n,  asï¿½  como  la  revocaciï¿½n  de  su  consentimiento, de<T><BR><T>acuerdo a la Ley Federal de Protecciï¿½n de  Datos  Personales en Posesiï¿½n de los  Particulares  deberï¿½  contactar a nuestra  oficina  de  privacidad   que   se  encuentra  ubicada en<T><BR><T>Calle 13 # 70,  Colonia  El Deï¿½n, C.P. 44440 en Guadalajara, Jalisco con los documentos  soportes  del derecho a ejercer. Al no oponerse a dicho tratamiento  se  da  por  entendido   que<T><BR><T>autoriza  a  MAVI a transferir  sus  datos  personales  a  cualquier  tercero   (persona fï¿½sica o moral), el cual asumirï¿½ las mismas  obligaciones  que  corresponda en  el tratamiento<T><BR><T>de los datos;  y   otorga   expresamente  su consentimiento para que MAVI y/o  sus  empresas   filiales  y  subsidiarias  puedan  dar tratamiento a sus datos para los fines que se encuentren<T><BR><T>asentados en el Aviso de Privacidad.<T>
+Expresion=<T>La información personal proporcionada durante los servicios ofrecidos  por  Mavi  de  Occidente,  S.A.  de  C.V. (en lo sucesivo “MAVI”)  es necesaria para la evaluación, análisis, uso, manejo,<T><BR><T>aprovechamiento, transferencia,  disposición,  divulgación  almacenamiento  por   cualquier   medio, actividad o proceso que requiere   el  tratamiento.  Los detalles  del  Aviso de privacidad<T><BR><T>y sus actualizaciones se encuentran en nuestra  página  web <T>+sql(<T> SELECT PagAviso = T.Valor FROM TablaStD T WITH(NOLOCK) INNER JOIN Sucursal S ON S.wUEN = T.Nombre WHERE TablaSt=:tNom AND Sucursal=:nSuc<T>,<T>WEB AVISO DE PRIVACIDAD<T>,SucursalVenta)+<T>   MAVI  cuenta   con   medios  de  almacenamiento  de  datos  personales  debidamente protegidos,<T><BR><T>limitando el uso al personal que por la naturaleza de sus actividades  así  lo  amerite  y a  empresas  filiales   y/o  subsidiarias,  los  cuales  deberán  apegarse estrictamente a las<T><BR><T>políticas organizacionales  reguladas  por  MAVI. Para ejercer sus derechos de acceso, rectificación,   cancelación   y  oposición,  así  como  la  revocación  de  su  consentimiento, de<T><BR><T>acuerdo a la Ley Federal de Protección de  Datos  Personales en Posesión de los  Particulares  deberá  contactar a nuestra  oficina  de  privacidad   que   se  encuentra  ubicada en<T><BR><T>Calle 13 # 70,  Colonia  El Deán, C.P. 44440 en Guadalajara, Jalisco con los documentos  soportes  del derecho a ejercer. Al no oponerse a dicho tratamiento  se  da  por  entendido   que<T><BR><T>autoriza  a  MAVI a transferir  sus  datos  personales  a  cualquier  tercero   (persona física o moral), el cual asumirá las mismas  obligaciones  que  corresponda en  el tratamiento<T><BR><T>de los datos;  y   otorga   expresamente  su consentimiento para que MAVI y/o  sus  empresas   filiales  y  subsidiarias  puedan  dar tratamiento a sus datos para los fines que se encuentren<T><BR><T>asentados en el Aviso de Privacidad.<T>
 BordeAbajo=N
 TextoConFlujo=S
 ExpresionMultiple=S
 BordeIzquierdo=S
 BordeDerecho=S
-Expresion002=<CONTINUA>onal que por la naturaleza de sus actividades  asï¿½  lo  amerite  y a  empresas  filiales   y/o  subsidiarias,  los  cuales  deberï¿½n  apegarse estrictamente a las<T><BR><T>polï¿½ticas organizacionales  reguladas  por  MAVI. Para ejercer sus derechos de acceso, rectificaciï¿½n,   cancelaciï¿½n   y  oposiciï¿½n,  asï¿½  como  la  revocaciï¿½n  de  su  consentimiento, de<T><BR><T>acuerdo a la Ley Federal de Protecciï¿½n de  Datos  Personales en Posesiï¿½n de los  Particulares  deberï¿½  contactar a nuestra  oficina  de  privacidad   que   se  encuentra  ubicada en<T><BR><T>Calle 13 # 70,  Colonia  El Deï¿½n, C.P. 44440 en Guadalajara, Jalisco con los documentos  soportes  del derecho a ejercer. Al no oponerse a dicho tratamiento  se  da  por  entendido   que<T><BR><T>autoriza  a  MAVI a transferir  sus  datos  pe<CONTINUA>
-Expresion003=<CONTINUA>rsonales  a  cualquier  tercero   (persona fï¿½sica o moral), el cual asumirï¿½ las mismas  obligaciones  que  corresponda en  el tratamiento<T><BR><T>de los datos;  y   otorga   expresamente  su consentimiento para que MAVI y/o  sus  empresas   filiales  y  subsidiarias  puedan  dar tratamiento a sus datos para los fines que se encuentren<T><BR><T>asentados en el Aviso de Privacidad.<T>
+Expresion002=<CONTINUA>onal que por la naturaleza de sus actividades  así  lo  amerite  y a  empresas  filiales   y/o  subsidiarias,  los  cuales  deberán  apegarse estrictamente a las<T><BR><T>políticas organizacionales  reguladas  por  MAVI. Para ejercer sus derechos de acceso, rectificación,   cancelación   y  oposición,  así  como  la  revocación  de  su  consentimiento, de<T><BR><T>acuerdo a la Ley Federal de Protección de  Datos  Personales en Posesión de los  Particulares  deberá  contactar a nuestra  oficina  de  privacidad   que   se  encuentra  ubicada en<T><BR><T>Calle 13 # 70,  Colonia  El Deán, C.P. 44440 en Guadalajara, Jalisco con los documentos  soportes  del derecho a ejercer. Al no oponerse a dicho tratamiento  se  da  por  entendido   que<T><BR><T>autoriza  a  MAVI a transferir  sus  datos  pe<CONTINUA>
+Expresion003=<CONTINUA>rsonales  a  cualquier  tercero   (persona física o moral), el cual asumirá las mismas  obligaciones  que  corresponda en  el tratamiento<T><BR><T>de los datos;  y   otorga   expresamente  su consentimiento para que MAVI y/o  sus  empresas   filiales  y  subsidiarias  puedan  dar tratamiento a sus datos para los fines que se encuentren<T><BR><T>asentados en el Aviso de Privacidad.<T>
 [C30]
 Celda=C30
 Alineacion=Izquierda
@@ -2754,7 +2753,7 @@ TablaAncho=(Auto)
 TablaAnchoCeldas=(Auto)
 TablaAnchoTituloRenglon=(Auto)
 TablaAnchoTotales=(Auto)
-Expresion=<T>Descripciï¿½n<T>
+Expresion=<T>Descripción<T>
 [D16]
 Celda=D16
 Alineacion=Centrado
@@ -2987,7 +2986,7 @@ BordeAbajo=S
 [Linea34]
 Clave=Pie
 Objetos=5
-Seccion=Pie Pï¿½gina
+Seccion=Pie Página
 AltoEnCm=0.76
 Renglones=2
 FondoColor=Blanco
@@ -2996,7 +2995,7 @@ AVertical=Centrado
 [Linea35]
 Clave=Pie
 Objetos=1
-Seccion=Pie Pï¿½gina
+Seccion=Pie Página
 AltoEnCm=5
 Renglones=1
 FondoColor=Blanco
@@ -3198,7 +3197,7 @@ TablaAncho=(Auto)
 TablaAnchoCeldas=(Auto)
 TablaAnchoTituloRenglon=(Auto)
 TablaAnchoTotales=(Auto)
-Expresion=<T>AUTORIZACIï¿½N 1<T>
+Expresion=<T>AUTORIZACIÓN 1<T>
 [B34]
 Celda=B34
 Alineacion=Izquierda
@@ -3235,7 +3234,7 @@ TablaAncho=(Auto)
 TablaAnchoCeldas=(Auto)
 TablaAnchoTituloRenglon=(Auto)
 TablaAnchoTotales=(Auto)
-Expresion=<T>AUTORIZACIï¿½N 2<T>
+Expresion=<T>AUTORIZACIÓN 2<T>
 [D34]
 Celda=D34
 Alineacion=Izquierda
@@ -3273,7 +3272,7 @@ TablaAncho=(Auto)
 TablaAnchoCeldas=(Auto)
 TablaAnchoTituloRenglon=(Auto)
 TablaAnchoTotales=(Auto)
-Expresion=<T>Nombre, Firma Gerente  que revisï¿½,<T><BR><T>cotejo firmas e identificacion.<T>
+Expresion=<T>Nombre, Firma Gerente  que revisó,<T><BR><T>cotejo firmas e identificacion.<T>
 [A35]
 Celda=A35
 Alineacion=Derecha
