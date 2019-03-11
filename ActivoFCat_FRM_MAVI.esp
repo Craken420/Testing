@@ -31,8 +31,12 @@ EjecucionCondicion=Si SQL(<T>SELECT COUNT(CveProdServ) FROM DM0306ProdServ WITH(
 [Cont.frm/Acciones.DesAfectar]
 ActivoCondicion=Cont:Cont.Estatus=EstatusConcluido
 Activo=Nel
+TipoAccion=Ventana
+ClaveAccion=Cerrar
 Visible=S
 
 [Cont.frm/Acciones.DesafectarLote]
 Expresion=Si<BR>  (ContA:Cont.Estatus=EstatusConcluido)<BR>Entonces<BR>  DesAfectar(<T>Cont<T>, ContA:Cont.ID, ContA:Cont.Mov, ContA:Cont.MovID)<BR>Fin
 Visible=S
+Nombre=Cerrar
+Boton=3
