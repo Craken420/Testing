@@ -1,17 +1,7 @@
 [Cont.frm/Acciones.DesAfectar]
-<<<<<<< HEAD
 ActivoCondicion=Cont:Cont
-=======
-ActivoCondicion=archivoexistente
-Activo=existente
-Visible=exis
->>>>>>> 7891b7b000eaf2fe44a870b406abd475099e6fc8
 
 [Cont.frm/Acciones.DesafectarLote]
 Expresion=esxcis
 
 
-<<<<<<< HEAD
-=======
-;Se agregaran2
->>>>>>> 7891b7b000eaf2fe44a870b406abd475099e6fc8

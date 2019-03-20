@@ -23,6 +23,8 @@ NombreDesplegar=&Perfil DBMail}
 
 [Version1.frm/Acciones.other]
 Nombre=changeother
+EnBarraHerramientas=S
+EspacioPrevio=S
  
 [Version1.frm/Acciones.other2]
 Nombre=PerfilDBMail
@@ -31,6 +33,8 @@ NombreDesplegar=&Perfil DBMail}
 
 [Version1.frm/Acciones.other2]
 Nombre=changeother
+EnBarraHerramientas=S
+EspacioPrevio=S
 
 [Version.frm/Acciones.PerfilDBMail]
 Nombre=Se encontraba en ActivoFCat
@@ -43,6 +47,7 @@ Visible=S
 GuardarAntes=S
 TipoAccion=Formas
 ClaveAccion=Se encontraba en ActivoFCat
+AngelosCamp=HeyHeyHey
 
 [Version1.frm/Acciones.PerfilDBMail]
 Nombre=ola

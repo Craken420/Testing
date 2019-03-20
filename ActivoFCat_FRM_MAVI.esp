@@ -36,7 +36,6 @@ ColorFondo=Blanco
 ColorFuente=Negro
 
 [Cont.frm/Acciones.DesAfectar]
-<<<<<<< HEAD
 ActivoCondicion=Cont:Cont
 ColorFondo=Blanco
 ColorFuente=Negro
@@ -48,16 +47,3 @@ ColorFuente=Negro
 
 [Cont.frm/Acciones.DesafectarLote]
 ColorFuente=Negro
-=======
-ActivoCondicion=Cont:Cont.Estatus=EstatusConcluido
-Activo=Nel
-TipoAccion=Ventana
-ClaveAccion=Cerrar
-Visible=S
-
-[Cont.frm/Acciones.DesafectarLote]
-Expresion=Si<BR>  (ContA:Cont.Estatus=EstatusConcluido)<BR>Entonces<BR>  DesAfectar(<T>Cont<T>, ContA:Cont.ID, ContA:Cont.Mov, ContA:Cont.MovID)<BR>Fin
-Visible=S
-Nombre=Cerrar
-Boton=3
->>>>>>> 7891b7b000eaf2fe44a870b406abd475099e6fc8
