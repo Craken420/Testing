@@ -10,7 +10,28 @@ Visible=S
 GuardarAntes=S
 TipoAccion=Formas
 ClaveAccion=CFDFlexPerfilDBMail
+
+[Version1.frm/Acciones.PerfilDBMail]
+Nombre=PerfilDBMail
+Boton=84
+NombreDesplegar=&Perfil DBMail
+
+[Version1.frm/Acciones.other]
+Nombre=PerfilDBMail
+Boton=84
+NombreDesplegar=&Perfil DBMail}
+
+[Version1.frm/Acciones.other]
+Nombre=changeother
  
+[Version1.frm/Acciones.other2]
+Nombre=PerfilDBMail
+Boton=84
+NombreDesplegar=&Perfil DBMail}
+
+[Version1.frm/Acciones.other2]
+Nombre=changeother
+
 [Version.frm/Acciones.PerfilDBMail]
 Nombre=Se encontraba en ActivoFCat
 Boton=84
@@ -21,6 +42,25 @@ Activo=S
 Visible=S
 GuardarAntes=S
 TipoAccion=Formas
+ClaveAccion=Se encontraba en ActivoFCat
+
+[Version1.frm/Acciones.PerfilDBMail]
+Nombre=ola
+
+
+[Version2.frm/Acciones.PerfilDBMail]
+Nombre=PerfilDBMail
+Boton=84
+NombreDesplegar=&Perfil DBMail
+
+[Version2.frm/Acciones.PerfilDBMail]
+ClaveAccion=Se encontraba en ActivoFCat
+ClaveAccion=Se encontraba en ActivoFCat
+ClaveAccion=Se encontraba en ActivoFCat
+
+[Version3.frm/Acciones.PerfilDBMail]
+ClaveAccion=Se encontraba en ActivoFCat
+ClaveAccion=Se encontraba en ActivoFCat
 ClaveAccion=Se encontraba en ActivoFCat
  
 [Version.frm/Acciones.PerfilDBMail]
