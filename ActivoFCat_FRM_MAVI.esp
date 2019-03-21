@@ -33,6 +33,8 @@ ColorFuente=Negro
 [Cont.frm/Acciones.My1]
 ActivoCondicion=Cont:Cont
 ColorFondo=Blanco
+ColorFondo=Blanco
+ColorFondo=Blanco
 ColorFuente=Negro
 
 [Cont.frm/Acciones.DesAfectar]
