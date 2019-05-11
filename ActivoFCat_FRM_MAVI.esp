@@ -37,6 +37,9 @@ ColorFondo=Blanco
 ColorFondo=Blanco
 ColorFuente=Negro
 
+[Cont.frm/Acciones.My1]
+Angelos=Fieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeld
+
 [Cont.frm/Acciones.DesAfectar]
 ActivoCondicion=Cont:Cont
 ColorFondo=Blanco
@@ -49,3 +52,13 @@ ColorFuente=Negro
 
 [Cont.frm/Acciones.DesafectarLote]
 ColorFuente=Negro
+
+[Version1.frm/Acciones.other]
+Nombre=changeother
+EnBarraHerramientas=S
+EspacioPrevio=S
+ 
+[Version1.frm/Acciones.other2]
+Nombre=PerfilDBMail
+Boton=84
+NombreDesplegar=&Perfil DBMail}

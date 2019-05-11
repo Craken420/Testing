@@ -29,7 +29,7 @@ EspacioPrevio=S
 [Version1.frm/Acciones.other2]
 Nombre=PerfilDBMail
 Boton=84
-NombreDesplegar=&Perfil DBMail}
+NombreDesplegar=&Perfil DBMail
 
 [Version1.frm/Acciones.other2]
 Nombre=changeother
