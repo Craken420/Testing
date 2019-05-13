@@ -1,41 +1,3 @@
-Se creara version1
-[Version1.frm/Acciones.PerfilDBMail]
-Nombre=PerfilDBMail
-Boton=84
-NombreDesplegar=&Perfil DBMail
-EnBarraHerramientas=S
-EspacioPrevio=S
-Activo=S
-Visible=S
-GuardarAntes=S
-TipoAccion=Formas
-ClaveAccion=CFDFlexPerfilDBMail
-
-[Version1.frm/Acciones.PerfilDBMail]
-Nombre=PerfilDBMail
-Boton=84
-NombreDesplegar=&Perfil DBMail
-
-[Version1.frm/Acciones.other]
-Nombre=PerfilDBMail
-Boton=84
-NombreDesplegar=&Perfil DBMail}
-
-[Version1.frm/Acciones.other]
-Nombre=changeother
-EnBarraHerramientas=S
-EspacioPrevio=S
- 
-[Version1.frm/Acciones.other2]
-Nombre=PerfilDBMail
-Boton=84
-NombreDesplegar=&Perfil DBMail
-
-[Version1.frm/Acciones.other2]
-Nombre=changeother
-EnBarraHerramientas=S
-EspacioPrevio=S
-
 [Version.frm/Acciones.PerfilDBMail]
 Nombre=Se encontraba en ActivoFCat
 Boton=84
@@ -68,14 +30,3 @@ ClaveAccion=Se encontraba en ActivoFCat
 ClaveAccion=Se encontraba en ActivoFCat
 ClaveAccion=Se encontraba en ActivoFCat
  
-[Version.frm/Acciones.PerfilDBMail]
-Nombre=PerfilDBMail
-Boton=84
-NombreDesplegar=&Perfil DBMail
-EnBarraHerramientas=S
-EspacioPrevio=S
-Activo=S
-Visible=S
-GuardarAntes=S
-TipoAccion=Formas
-ClaveAccion=CFDFlexPerfilDBMail

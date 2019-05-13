@@ -1,41 +1,17 @@
 [Acciones.Cerrar]
 Nombre=Cerrar
 Boton=3
-NombreEnBoton=S
-NombreDesplegar=&Guardar y cerrar
-GuardarAntes=S
-EnBarraHerramientas=S
-TipoAccion=Ventana
-ClaveAccion=Cerrar
-Activo=S
-Visible=S
-ConCondicion=S
-EjecucionCondicion=Si SQL(<T>SELECT COUNT(CveProdServ) FROM DM0306ProdServ WITH(NOLOCK) WHERE CveProdServ= :tClave<T>,ActivoFCat:ActivoFCat.CveProdSAT)=0<BR>    Entonces<BR>        Error(<T>La clave SAT no debe estar vacio<T>)<BR>        AbortarOperacion<BR>    Sino<BR>        Verdadero<BR>Fin
-
-[Acciones1.Cerrar]
-Nombre=Cerrar
-Boton=3
-NombreEnBoton=S
-NombreDesplegar=&Guardar y cerrar
-GuardarAntes=S
-EnBarraHerramientas=S
-TipoAccion=Ventana
-ClaveAccion=Cerrar
-Activo=S
-Visible=S
-ConCondicion=S
-EjecucionCondicion=Si SQL(<T>SELECT COUNT(CveProdServ) FROM DM0306ProdServ WITH(NOLOCK) WHERE CveProdServ= :tClave<T>,ActivoFCat:ActivoFCat.CveProdSAT)=0<BR>    Entonces<BR>        Error(<T>La clave SAT no debe estar vacio<T>)<BR>        AbortarOperacion<BR>    Sino<BR>        Verdadero<BR>Fin
 
 [Cont.frm/Acciones.DesAfectar]
 ActivoCondicion=Cont:Cont
 ColorFondo=Blanco
 ColorFuente=Negro
+
 [Cont.frm/Acciones.My1]
 ActivoCondicion=Cont:Cont
 ColorFondo=Blanco
 ColorFondo=Blanco
-ColorFondo=Blanco
-ColorFuente=Negro
+
 
 [Cont.frm/Acciones.My1]
 Angelos=Fieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeld
@@ -49,16 +25,3 @@ ColorFuente=Negro
 ActivoCondicion=Cont:Cont
 ColorFondo=Blanco
 ColorFuente=Negro
-
-[Cont.frm/Acciones.DesafectarLote]
-ColorFuente=Negro
-
-[Version1.frm/Acciones.other]
-Nombre=changeother
-EnBarraHerramientas=S
-EspacioPrevio=S
- 
-[Version1.frm/Acciones.other2]
-Nombre=PerfilDBMail
-Boton=84
-NombreDesplegar=&Perfil DBMail}
